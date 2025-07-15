@@ -26,7 +26,7 @@ Fue desarrollada como prueba técnica, pero está pensada para ser escalable, pr
 - jQuery + jTable
 - UIkit (CSS Framework)
 
-### Versión senior-friendly (en desarrollo):
+### Versión Framework (en desarrollo):
 - Laravel (backend API REST)
 - Vue.js o React (frontend SPA)
 - MySQL con migraciones y seeders
